@@ -8,8 +8,6 @@
 
 # BERT 预训练
 
-bert 除了官方论文
-
 如果需要在各个版本的bert-base、bert-wwm、 bert-wwm-ext、 Roberta-wwm-ext 模型中，采用新领域中的数据进行预训练。
 
 其中各个模型下载：
